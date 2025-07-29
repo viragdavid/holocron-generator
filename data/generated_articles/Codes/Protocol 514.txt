@@ -1,0 +1,4 @@
+Title: Protocol 514
+Main: Protocol 514 was a code that, when activated, caused the minds of all the droids that were based in the Tor-Ro-Bo Processing Center 879 on the planet 244Core to be wiped . At some point, Tor-Ro-Bo Industries hired a group of spacers to smuggle some semi-processed TOL-type ore in contravention to a profit-sharing agreement . After the violation was detected by the other parties to the contract, Tor-Ro-Bo activated the protocol, to conceal the spacers' presence in Processing Center 879.
+Table: Protocol 514 | Outcome: Automatic memory wipe of all the droids in Tor-Ro-Bo Processing Center 879
+Appearances: "Imminent Impact" —The Unknown Regions

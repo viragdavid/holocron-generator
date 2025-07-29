@@ -1,0 +1,263 @@
+2025-07-29 12:26:45,909 - INFO - No valid credentials, initiating new OAuth flow...
+2025-07-29 12:31:40,608 - INFO - No valid credentials, initiating new OAuth flow...
+2025-07-29 12:34:23,489 - INFO - No valid credentials, initiating new OAuth flow...
+2025-07-29 12:34:34,985 - INFO - "GET /?state=PSJP8uhJ1sEIuTjpgBe72lQeTGQMBQ&code=4/0AVMBsJg23QPT2WYI7xwPAAdaUeSg-fYAze-pZesMkJ3bWLsNqy5SJHxzYvkmwoKQN0VEZg&scope=https://www.googleapis.com/auth/youtube.upload HTTP/1.1" 200 65
+2025-07-29 12:34:35,231 - INFO - OAuth flow completed successfully.
+2025-07-29 12:34:35,235 - INFO - Credentials saved to token.pickle
+2025-07-29 12:34:35,242 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-29 12:34:35,269 - INFO - Found 0 already uploaded videos in log.
+2025-07-29 12:37:53,573 - INFO - Loaded credentials from token.pickle
+2025-07-29 12:37:53,578 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-29 12:37:53,585 - INFO - Found 0 already uploaded videos in log.
+2025-07-29 12:37:53,587 - INFO - Processing category: Arboreal planets
+2025-07-29 12:37:53,590 - WARNING - No description file found for Mulita_short.mp4 (../data/generated_text\Arboreal planets\Mulita.txt). Skipping.
+2025-07-29 12:37:53,591 - INFO - Processing category: Arms manufacturing companies
+2025-07-29 12:37:53,593 - WARNING - No description file found for Antrech Arms_short.mp4 (../data/generated_text\Arms manufacturing companies\Antrech Arms.txt). Skipping.
+2025-07-29 12:37:53,594 - INFO - Processing category: Battles in 19 BBY
+2025-07-29 12:37:53,595 - WARNING - No description file found for Mission to Batuu_short.mp4 (../data/generated_text\Battles in 19 BBY\Mission to Batuu.txt). Skipping.
+2025-07-29 12:37:53,596 - INFO - Processing category: Character stubs
+2025-07-29 12:37:53,598 - WARNING - No description file found for Eos Morne_short.mp4 (../data/generated_text\Character stubs\Eos Morne.txt). Skipping.
+2025-07-29 12:37:53,600 - WARNING - No description file found for Unidentified Second Prince_short.mp4 (../data/generated_text\Character stubs\Unidentified Second Prince.txt). Skipping.
+2025-07-29 12:37:53,601 - INFO - Processing category: Codes
+2025-07-29 12:37:53,602 - WARNING - No description file found for Protocol 514_short.mp4 (../data/generated_text\Codes\Protocol 514.txt). Skipping.
+2025-07-29 12:37:53,603 - INFO - Processing category: Diplomatic events
+2025-07-29 12:37:53,606 - WARNING - No description file found for Thirteenth Imperial Diplomatic Conclave_short.mp4 (../data/generated_text\Diplomatic events\Thirteenth Imperial Diplomatic Conclave.txt). Skipping.
+2025-07-29 12:37:53,608 - INFO - Processing category: Diseases and maladies
+2025-07-29 12:37:53,610 - WARNING - No description file found for Spice withdrawal_short.mp4 (../data/generated_text\Diseases and maladies\Spice withdrawal.txt). Skipping.
+2025-07-29 12:37:53,612 - INFO - Processing category: Herdessa sector locations
+2025-07-29 12:37:53,614 - WARNING - No description file found for Cificap VIII_short.mp4 (../data/generated_text\Herdessa sector locations\Cificap VIII.txt). Skipping.
+2025-07-29 12:37:53,615 - INFO - Processing category: Koradin sector locations
+2025-07-29 12:37:53,616 - WARNING - No description file found for Kovor system_Legends_short.mp4 (../data/generated_text\Koradin sector locations\Kovor system_Legends.txt). Skipping.
+2025-07-29 12:37:53,617 - INFO - Processing category: Meirm Speeder Emporium products
+2025-07-29 12:37:53,619 - WARNING - No description file found for Iguana (speeder bike)_short.mp4 (../data/generated_text\Meirm Speeder Emporium products\Iguana (speeder bike).txt). Skipping.
+2025-07-29 12:37:53,621 - INFO - Processing category: Rocks
+2025-07-29 12:37:53,623 - WARNING - No description file found for Sandstone_short.mp4 (../data/generated_text\Rocks\Sandstone.txt). Skipping.
+2025-07-29 12:37:53,625 - INFO - Processing category: Science stubs
+2025-07-29 12:37:53,626 - WARNING - No description file found for Kilogram_short.mp4 (../data/generated_text\Science stubs\Kilogram.txt). Skipping.
+2025-07-29 12:37:53,627 - INFO - Processing category: Songs
+2025-07-29 12:37:53,629 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know.txt). Skipping.
+2025-07-29 13:05:30,525 - INFO - Loaded credentials from token.pickle
+2025-07-29 13:05:30,532 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-29 13:05:30,551 - INFO - Found 10 already uploaded videos in log.
+2025-07-29 13:05:30,552 - INFO - Processing category: Arboreal planets
+2025-07-29 13:05:30,567 - INFO - Attempting to upload: Mulita
+2025-07-29 13:05:30,568 - INFO - Description: Deep within Wild Space lies Mulita, a forested planet teeming with the Drengir, sentient carnivorous...
+2025-07-29 13:05:30,569 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, arboreal planets, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:05:31,721 - ERROR - An HTTP error occurred during upload for Mulita_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:31,722 - ERROR - Failed to upload or log: Mulita_short.mp4
+2025-07-29 13:05:31,723 - INFO - Processing category: Arms manufacturing companies
+2025-07-29 13:05:31,739 - INFO - Attempting to upload: Antrech Arms
+2025-07-29 13:05:31,740 - INFO - Description: Antrech Arms, a subsidiary of the massive BlasTech Industries, crafted specialized weaponry for the ...
+2025-07-29 13:05:31,742 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, arms manufacturing companies, sith, force, yoda
+2025-07-29 13:05:32,220 - ERROR - An HTTP error occurred during upload for Antrech Arms_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:32,221 - ERROR - Failed to upload or log: Antrech Arms_short.mp4
+2025-07-29 13:05:32,223 - INFO - Processing category: Battles in 19 BBY
+2025-07-29 13:05:32,235 - INFO - Attempting to upload: Mission To Batuu
+2025-07-29 13:05:32,236 - INFO - Description: During the Clone Wars, a Separatist droid factory on Mokivj prompted a mission led by Anakin Skywalk...
+2025-07-29 13:05:32,238 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, battles in 19 bby, starwars, jedi, kenobi, sith, starwarsreels, force, yoda
+2025-07-29 13:05:32,648 - ERROR - An HTTP error occurred during upload for Mission to Batuu_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:32,650 - ERROR - Failed to upload or log: Mission to Batuu_short.mp4
+2025-07-29 13:05:32,651 - INFO - Processing category: Character stubs
+2025-07-29 13:05:32,670 - INFO - Attempting to upload: Eos Morne
+2025-07-29 13:05:32,671 - INFO - Description: In 22 BBY, a light-skinned human named Eos Morne was spotted at Coruscant's exclusive Outlander Club...
+2025-07-29 13:05:32,672 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, character stubs, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:05:33,169 - ERROR - An HTTP error occurred during upload for Eos Morne_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:33,170 - ERROR - Failed to upload or log: Eos Morne_short.mp4
+2025-07-29 13:05:33,187 - INFO - Attempting to upload: Unidentified Second Prince
+2025-07-29 13:05:33,189 - INFO - Description: In the Empire's twilight years, a power struggle brewed between two brothers: the Crown Prince and h...
+2025-07-29 13:05:33,189 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, character stubs, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:05:33,628 - ERROR - An HTTP error occurred during upload for Unidentified Second Prince_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:33,629 - ERROR - Failed to upload or log: Unidentified Second Prince_short.mp4
+2025-07-29 13:05:33,630 - INFO - Processing category: Codes
+2025-07-29 13:05:33,642 - INFO - Attempting to upload: Protocol 514
+2025-07-29 13:05:33,643 - INFO - Description: On the remote planet 244Core, Tor-Ro-Bo Industries secretly activated Protocol 514.  This drastic me...
+2025-07-29 13:05:33,645 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, codes, yoda
+2025-07-29 13:05:34,074 - ERROR - An HTTP error occurred during upload for Protocol 514_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:34,076 - ERROR - Failed to upload or log: Protocol 514_short.mp4
+2025-07-29 13:05:34,077 - INFO - Processing category: Diplomatic events
+2025-07-29 13:05:34,095 - INFO - Attempting to upload: Thirteenth Imperial Diplomatic Conclave
+2025-07-29 13:05:34,096 - INFO - Description: In the year 0 ABY,  the Imperial-aligned worlds gathered for a crucial diplomatic conclave on Phelar...
+2025-07-29 13:05:34,097 - INFO - Tags: diplomatic events, lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:05:34,497 - ERROR - An HTTP error occurred during upload for Thirteenth Imperial Diplomatic Conclave_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:34,498 - ERROR - Failed to upload or log: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-07-29 13:05:34,500 - INFO - Processing category: Diseases and maladies
+2025-07-29 13:05:34,518 - INFO - Attempting to upload: Spice Withdrawal
+2025-07-29 13:05:34,519 - INFO - Description: Spice withdrawal is a brutal affliction for those addicted to the potent drug.  Anja Gallandro, hook...
+2025-07-29 13:05:34,521 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, diseases and maladies, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:05:35,006 - ERROR - An HTTP error occurred during upload for Spice withdrawal_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:35,008 - ERROR - Failed to upload or log: Spice withdrawal_short.mp4
+2025-07-29 13:05:35,009 - INFO - Processing category: Herdessa sector locations
+2025-07-29 13:05:35,021 - INFO - Attempting to upload: Cificap Viii
+2025-07-29 13:05:35,022 - INFO - Description: In the Mid Rim's Herdessa sector, lies the planet Cificap VIII.  Shortly after the Rebel victory at ...
+2025-07-29 13:05:35,024 - INFO - Tags: herdessa sector locations, lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:05:35,423 - ERROR - An HTTP error occurred during upload for Cificap VIII_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:35,425 - ERROR - Failed to upload or log: Cificap VIII_short.mp4
+2025-07-29 13:05:35,426 - INFO - Processing category: Koradin sector locations
+2025-07-29 13:05:35,437 - INFO - Attempting to upload: Kovor System Legends
+2025-07-29 13:05:35,439 - INFO - Description: Deep in the Outer Rim Territories, nestled within the Koradin sector, lies the Kovor system.  This r...
+2025-07-29 13:05:35,440 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, koradin sector locations, kenobi, sith, starwarsreels, force, yoda
+2025-07-29 13:05:35,852 - ERROR - An HTTP error occurred during upload for Kovor system_Legends_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:35,853 - ERROR - Failed to upload or log: Kovor system_Legends_short.mp4
+2025-07-29 13:05:35,855 - INFO - Processing category: Meirm Speeder Emporium products
+2025-07-29 13:05:35,866 - INFO - Attempting to upload: Iguana (Speeder Bike)
+2025-07-29 13:05:35,867 - INFO - Description: During the Galactic Republic's Cold War with the Sith Empire,  hot off the assembly line at Meirm Sp...
+2025-07-29 13:05:35,868 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, meirm speeder emporium products, force, yoda
+2025-07-29 13:05:36,351 - ERROR - An HTTP error occurred during upload for Iguana (speeder bike)_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:36,352 - ERROR - Failed to upload or log: Iguana (speeder bike)_short.mp4
+2025-07-29 13:05:36,354 - INFO - Processing category: Rocks
+2025-07-29 13:05:36,365 - INFO - Attempting to upload: Sandstone
+2025-07-29 13:05:36,366 - INFO - Description: Sandstone, a common building material in the Star Wars galaxy, played a significant role in iconic s...
+2025-07-29 13:05:36,367 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, rocks, force, yoda
+2025-07-29 13:05:37,100 - ERROR - An HTTP error occurred during upload for Sandstone_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:37,102 - ERROR - Failed to upload or log: Sandstone_short.mp4
+2025-07-29 13:05:37,103 - INFO - Processing category: Science stubs
+2025-07-29 13:05:37,114 - INFO - Attempting to upload: Kilogram
+2025-07-29 13:05:37,115 - INFO - Description: In the Star Wars galaxy, the kilogram, or kg, measures mass.  We know, for instance, that a B1 battl...
+2025-07-29 13:05:37,116 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, science stubs, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:05:37,619 - ERROR - An HTTP error occurred during upload for Kilogram_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:05:37,620 - ERROR - Failed to upload or log: Kilogram_short.mp4
+2025-07-29 13:05:37,621 - INFO - Processing category: Songs
+2025-07-29 13:05:37,623 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
+2025-07-29 13:11:53,703 - INFO - Loaded credentials from token.pickle
+2025-07-29 13:11:53,708 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-29 13:11:53,726 - INFO - Found 10 already uploaded videos in log.
+2025-07-29 13:11:53,728 - INFO - Processing category: Arboreal planets
+2025-07-29 13:11:53,730 - INFO - Attempting to upload: Mulita
+2025-07-29 13:11:53,731 - INFO - Description: Deep within Wild Space lies Mulita, a forested planet teeming with the Drengir, sentient carnivorous...
+2025-07-29 13:11:53,732 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, arboreal planets, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:11:54,552 - ERROR - An HTTP error occurred during upload for Mulita_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:54,554 - ERROR - Failed to upload or log: Mulita_short.mp4
+2025-07-29 13:11:54,555 - INFO - Processing category: Arms manufacturing companies
+2025-07-29 13:11:54,557 - INFO - Attempting to upload: Antrech Arms
+2025-07-29 13:11:54,558 - INFO - Description: Antrech Arms, a subsidiary of the massive BlasTech Industries, crafted specialized weaponry for the ...
+2025-07-29 13:11:54,559 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, arms manufacturing companies, sith, force, yoda
+2025-07-29 13:11:55,080 - ERROR - An HTTP error occurred during upload for Antrech Arms_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:55,081 - ERROR - Failed to upload or log: Antrech Arms_short.mp4
+2025-07-29 13:11:55,082 - INFO - Processing category: Battles in 19 BBY
+2025-07-29 13:11:55,083 - INFO - Attempting to upload: Mission To Batuu
+2025-07-29 13:11:55,085 - INFO - Description: During the Clone Wars, a Separatist droid factory on Mokivj prompted a mission led by Anakin Skywalk...
+2025-07-29 13:11:55,087 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, battles in 19 bby, starwars, jedi, kenobi, sith, starwarsreels, force, yoda
+2025-07-29 13:11:55,450 - ERROR - An HTTP error occurred during upload for Mission to Batuu_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:55,452 - ERROR - Failed to upload or log: Mission to Batuu_short.mp4
+2025-07-29 13:11:55,453 - INFO - Processing category: Character stubs
+2025-07-29 13:11:55,454 - INFO - Attempting to upload: Eos Morne
+2025-07-29 13:11:55,455 - INFO - Description: In 22 BBY, a light-skinned human named Eos Morne was spotted at Coruscant's exclusive Outlander Club...
+2025-07-29 13:11:55,456 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, character stubs, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:11:55,808 - ERROR - An HTTP error occurred during upload for Eos Morne_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:55,810 - ERROR - Failed to upload or log: Eos Morne_short.mp4
+2025-07-29 13:11:55,811 - INFO - Attempting to upload: Unidentified Second Prince
+2025-07-29 13:11:55,813 - INFO - Description: In the Empire's twilight years, a power struggle brewed between two brothers: the Crown Prince and h...
+2025-07-29 13:11:55,814 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, character stubs, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:11:56,334 - ERROR - An HTTP error occurred during upload for Unidentified Second Prince_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:56,335 - ERROR - Failed to upload or log: Unidentified Second Prince_short.mp4
+2025-07-29 13:11:56,337 - INFO - Processing category: Codes
+2025-07-29 13:11:56,339 - INFO - Attempting to upload: Protocol 514
+2025-07-29 13:11:56,341 - INFO - Description: On the remote planet 244Core, Tor-Ro-Bo Industries secretly activated Protocol 514.  This drastic me...
+2025-07-29 13:11:56,342 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, codes, yoda
+2025-07-29 13:11:56,836 - ERROR - An HTTP error occurred during upload for Protocol 514_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:56,838 - ERROR - Failed to upload or log: Protocol 514_short.mp4
+2025-07-29 13:11:56,838 - INFO - Processing category: Diplomatic events
+2025-07-29 13:11:56,840 - INFO - Attempting to upload: Thirteenth Imperial Diplomatic Conclave
+2025-07-29 13:11:56,841 - INFO - Description: In the year 0 ABY,  the Imperial-aligned worlds gathered for a crucial diplomatic conclave on Phelar...
+2025-07-29 13:11:56,841 - INFO - Tags: diplomatic events, lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:11:57,255 - ERROR - An HTTP error occurred during upload for Thirteenth Imperial Diplomatic Conclave_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:57,257 - ERROR - Failed to upload or log: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-07-29 13:11:57,259 - INFO - Processing category: Diseases and maladies
+2025-07-29 13:11:57,261 - INFO - Attempting to upload: Spice Withdrawal
+2025-07-29 13:11:57,262 - INFO - Description: Spice withdrawal is a brutal affliction for those addicted to the potent drug.  Anja Gallandro, hook...
+2025-07-29 13:11:57,263 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, diseases and maladies, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:11:57,544 - ERROR - An HTTP error occurred during upload for Spice withdrawal_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:57,546 - ERROR - Failed to upload or log: Spice withdrawal_short.mp4
+2025-07-29 13:11:57,547 - INFO - Processing category: Herdessa sector locations
+2025-07-29 13:11:57,548 - INFO - Attempting to upload: Cificap Viii
+2025-07-29 13:11:57,550 - INFO - Description: In the Mid Rim's Herdessa sector, lies the planet Cificap VIII.  Shortly after the Rebel victory at ...
+2025-07-29 13:11:57,551 - INFO - Tags: herdessa sector locations, lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:11:57,944 - ERROR - An HTTP error occurred during upload for Cificap VIII_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:57,945 - ERROR - Failed to upload or log: Cificap VIII_short.mp4
+2025-07-29 13:11:57,946 - INFO - Processing category: Koradin sector locations
+2025-07-29 13:11:57,948 - INFO - Attempting to upload: Kovor System Legends
+2025-07-29 13:11:57,949 - INFO - Description: Deep in the Outer Rim Territories, nestled within the Koradin sector, lies the Kovor system.  This r...
+2025-07-29 13:11:57,950 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, koradin sector locations, kenobi, sith, starwarsreels, force, yoda
+2025-07-29 13:11:58,403 - ERROR - An HTTP error occurred during upload for Kovor system_Legends_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:58,405 - ERROR - Failed to upload or log: Kovor system_Legends_short.mp4
+2025-07-29 13:11:58,406 - INFO - Processing category: Meirm Speeder Emporium products
+2025-07-29 13:11:58,407 - INFO - Attempting to upload: Iguana (Speeder Bike)
+2025-07-29 13:11:58,409 - INFO - Description: During the Galactic Republic's Cold War with the Sith Empire,  hot off the assembly line at Meirm Sp...
+2025-07-29 13:11:58,410 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, meirm speeder emporium products, force, yoda
+2025-07-29 13:11:58,736 - ERROR - An HTTP error occurred during upload for Iguana (speeder bike)_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:58,737 - ERROR - Failed to upload or log: Iguana (speeder bike)_short.mp4
+2025-07-29 13:11:58,739 - INFO - Processing category: Rocks
+2025-07-29 13:11:58,741 - INFO - Attempting to upload: Sandstone
+2025-07-29 13:11:58,742 - INFO - Description: Sandstone, a common building material in the Star Wars galaxy, played a significant role in iconic s...
+2025-07-29 13:11:58,743 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, rocks, force, yoda
+2025-07-29 13:11:59,121 - ERROR - An HTTP error occurred during upload for Sandstone_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:59,122 - ERROR - Failed to upload or log: Sandstone_short.mp4
+2025-07-29 13:11:59,123 - INFO - Processing category: Science stubs
+2025-07-29 13:11:59,125 - INFO - Attempting to upload: Kilogram
+2025-07-29 13:11:59,125 - INFO - Description: In the Star Wars galaxy, the kilogram, or kg, measures mass.  We know, for instance, that a B1 battl...
+2025-07-29 13:11:59,127 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, science stubs, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:11:59,541 - ERROR - An HTTP error occurred during upload for Kilogram_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:11:59,543 - ERROR - Failed to upload or log: Kilogram_short.mp4
+2025-07-29 13:11:59,544 - INFO - Processing category: Songs
+2025-07-29 13:11:59,546 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
+2025-07-29 13:20:32,789 - INFO - Loaded credentials from token.pickle
+2025-07-29 13:20:32,795 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-29 13:20:32,802 - INFO - Found 0 already uploaded videos (by title) in log.
+2025-07-29 13:22:16,091 - INFO - Loaded credentials from token.pickle
+2025-07-29 13:22:16,095 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-29 13:22:16,102 - INFO - Found 10 already uploaded videos (by title) in log.
+2025-07-29 13:22:16,104 - INFO - Processing category: Arboreal planets
+2025-07-29 13:22:16,106 - INFO - Skipping already uploaded video (title found in log): 'Mulita'
+2025-07-29 13:22:16,108 - INFO - Processing category: Arms manufacturing companies
+2025-07-29 13:22:16,111 - INFO - Skipping already uploaded video (title found in log): 'Antrech Arms'
+2025-07-29 13:22:16,112 - INFO - Processing category: Battles in 19 BBY
+2025-07-29 13:22:16,113 - INFO - Attempting to upload: 'Mission To Batuu'
+2025-07-29 13:22:16,116 - INFO - Description: During the Clone Wars, a Separatist droid factory on Mokivj prompted a mission led by Anakin Skywalk...
+2025-07-29 13:22:16,118 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, battles in 19 bby, starwars, jedi, kenobi, sith, starwarsreels, force, yoda
+2025-07-29 13:22:17,004 - ERROR - An HTTP error occurred during upload for Mission to Batuu_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:22:17,005 - ERROR - Failed to upload: 'Mission To Batuu'. Will retry on next run unless manually logged.
+2025-07-29 13:22:17,006 - INFO - Processing category: Character stubs
+2025-07-29 13:22:17,007 - INFO - Skipping already uploaded video (title found in log): 'Eos Morne'
+2025-07-29 13:22:17,009 - INFO - Attempting to upload: 'Unidentified Second Prince'
+2025-07-29 13:22:17,010 - INFO - Description: In the Empire's twilight years, a power struggle brewed between two brothers: the Crown Prince and h...
+2025-07-29 13:22:17,011 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, character stubs, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:22:17,393 - ERROR - An HTTP error occurred during upload for Unidentified Second Prince_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:22:17,394 - ERROR - Failed to upload: 'Unidentified Second Prince'. Will retry on next run unless manually logged.
+2025-07-29 13:22:17,397 - INFO - Processing category: Codes
+2025-07-29 13:22:17,398 - INFO - Attempting to upload: 'Protocol 514'
+2025-07-29 13:22:17,399 - INFO - Description: On the remote planet 244Core, Tor-Ro-Bo Industries secretly activated Protocol 514.  This drastic me...
+2025-07-29 13:22:17,400 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, codes, yoda
+2025-07-29 13:22:17,817 - ERROR - An HTTP error occurred during upload for Protocol 514_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:22:17,818 - ERROR - Failed to upload: 'Protocol 514'. Will retry on next run unless manually logged.
+2025-07-29 13:22:17,820 - INFO - Processing category: Diplomatic events
+2025-07-29 13:22:17,821 - INFO - Skipping already uploaded video (title found in log): 'Thirteenth Imperial Diplomatic Conclave'
+2025-07-29 13:22:17,823 - INFO - Processing category: Diseases and maladies
+2025-07-29 13:22:17,825 - INFO - Attempting to upload: 'Spice Withdrawal'
+2025-07-29 13:22:17,825 - INFO - Description: Spice withdrawal is a brutal affliction for those addicted to the potent drug.  Anja Gallandro, hook...
+2025-07-29 13:22:17,827 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, diseases and maladies, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:22:18,366 - ERROR - An HTTP error occurred during upload for Spice withdrawal_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:22:18,367 - ERROR - Failed to upload: 'Spice Withdrawal'. Will retry on next run unless manually logged.
+2025-07-29 13:22:18,368 - INFO - Processing category: Herdessa sector locations
+2025-07-29 13:22:18,371 - INFO - Attempting to upload: 'Cificap Viii'
+2025-07-29 13:22:18,372 - INFO - Description: In the Mid Rim's Herdessa sector, lies the planet Cificap VIII.  Shortly after the Rebel victory at ...
+2025-07-29 13:22:18,373 - INFO - Tags: herdessa sector locations, lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:22:18,834 - ERROR - An HTTP error occurred during upload for Cificap VIII_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:22:18,836 - ERROR - Failed to upload: 'Cificap Viii'. Will retry on next run unless manually logged.
+2025-07-29 13:22:18,837 - INFO - Processing category: Koradin sector locations
+2025-07-29 13:22:18,839 - INFO - Attempting to upload: 'Kovor system/Legends'
+2025-07-29 13:22:18,841 - INFO - Description: Deep in the Outer Rim Territories, nestled within the Koradin sector, lies the Kovor system.  This r...
+2025-07-29 13:22:18,841 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, starwarsfan, legends, anakin, starwars, jedi, koradin sector locations, kenobi, sith, starwarsreels, force, yoda
+2025-07-29 13:22:19,248 - ERROR - An HTTP error occurred during upload for Kovor system_Legends_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:22:19,250 - ERROR - Failed to upload: 'Kovor system/Legends'. Will retry on next run unless manually logged.
+2025-07-29 13:22:19,252 - INFO - Processing category: Meirm Speeder Emporium products
+2025-07-29 13:22:19,254 - INFO - Skipping already uploaded video (title found in log): 'Iguana (speeder bike)'
+2025-07-29 13:22:19,255 - INFO - Processing category: Rocks
+2025-07-29 13:22:19,256 - INFO - Skipping already uploaded video (title found in log): 'Sandstone'
+2025-07-29 13:22:19,257 - INFO - Processing category: Science stubs
+2025-07-29 13:22:19,259 - INFO - Attempting to upload: 'Kilogram'
+2025-07-29 13:22:19,260 - INFO - Description: In the Star Wars galaxy, the kilogram, or kg, measures mass.  We know, for instance, that a B1 battl...
+2025-07-29 13:22:19,262 - INFO - Tags: lightsaber, darthvader, starwarscommunity, starwarsfans, starwarslegends, shorts, science stubs, starwarsfan, legends, anakin, starwars, jedi, kenobi, starwarsreels, sith, force, yoda
+2025-07-29 13:22:19,678 - ERROR - An HTTP error occurred during upload for Kilogram_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-29 13:22:19,679 - ERROR - Failed to upload: 'Kilogram'. Will retry on next run unless manually logged.
+2025-07-29 13:22:19,681 - INFO - Processing category: Songs
+2025-07-29 13:22:19,682 - INFO - Skipping already uploaded video (title found in log): 'What Mamma Doesn't Know'

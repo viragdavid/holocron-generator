@@ -1,0 +1,5 @@
+Title: Kovor system/Legends
+Main: The Kovor system was a star system located in the Koradin sector of the Outer Rim Territories that contained the planet Kovor .
+Table: Astrographical information | Region: Outer Rim Territories; Sector: Koradin sector; Grid square: I-18; Orbiting bodies: Kovor
+Appearances: Star Wars: The Old Republic
+Images: https://static.wikia.nocookie.net/starwars/images/0/03/Cularin_system.jpg/revision/latest?cb=20071128013221, https://static.wikia.nocookie.net/starwars/images/6/6e/Kovor_system.png/revision/latest?cb=20150222202036

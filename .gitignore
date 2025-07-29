@@ -1,0 +1,9 @@
+# Ignore environment variables file
+.env
+# Ignore text to speech json
+ethereal-smoke-467209-n7-2fa1b578920d.json
+# Footage too big to store in git
+data/minecraft_footage
+# Ignore client secrets json
+client_secret_12090445080-o5mvqmklk0ac7uu7q4co9hib5sgi01fn.apps.googleusercontent.com.json
+notebooks/token.pickle
