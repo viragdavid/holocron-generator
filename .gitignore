@@ -6,4 +6,4 @@ ethereal-smoke-467209-n7-2fa1b578920d.json
 data/minecraft_footage
 # Ignore client secrets json
 client_secret_12090445080-o5mvqmklk0ac7uu7q4co9hib5sgi01fn.apps.googleusercontent.com.json
-notebooks/token.pickle
+data/token.pickle
