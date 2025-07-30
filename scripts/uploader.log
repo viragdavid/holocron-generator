@@ -1,0 +1,103 @@
+2025-07-30 09:34:18,561 - INFO - No valid credentials, initiating new OAuth flow...
+2025-07-30 09:34:26,882 - INFO - "GET /?state=3M4OhJlJwrVSFPKfLAZI2SdAJRDApu&code=4/0AVMBsJi8_V62AB658zYh05IqafbgYB1_FOAx-IN_rQMxs_f5D2ZQ6GbHor9JwMU7gG7nYg&scope=https://www.googleapis.com/auth/youtube.upload HTTP/1.1" 200 65
+2025-07-30 09:34:27,116 - INFO - OAuth flow completed successfully.
+2025-07-30 09:34:27,118 - INFO - Credentials saved to token.pickle
+2025-07-30 09:34:27,125 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-30 09:34:27,138 - INFO - Found 0 already uploaded videos in log.
+2025-07-30 09:34:27,140 - INFO - Processing category: Arboreal planets
+2025-07-30 09:34:27,150 - INFO - Attempting to upload: Mulita
+2025-07-30 09:34:27,151 - INFO - Description: Deep within Wild Space lies Mulita, a forested planet teeming with the Drengir, sentient carnivorous...
+2025-07-30 09:34:27,151 - INFO - Tags: starwarscommunity, starwars, yoda, lightsaber, starwarslegends, jedi, starwarsfan, starwarsreels, shorts, anakin, force, arboreal planets, darthvader, kenobi, starwarsfans, legends, sith
+2025-07-30 09:35:10,372 - INFO - Successfully uploaded: 'Mulita' (Video ID: ZysDhsdOUcg)
+2025-07-30 09:35:10,373 - INFO - Logged upload: Mulita_short.mp4
+2025-07-30 09:35:10,373 - INFO - Processing category: Ariarch sector locations
+2025-07-30 09:35:10,375 - INFO - Attempting to upload: Parliock System Legends
+2025-07-30 09:35:10,375 - INFO - Description: Deep within the Mid Rim's New Territories, nestled in the Ariarch sector, lay the Parliock system.  ...
+2025-07-30 09:35:10,375 - INFO - Tags: starwarscommunity, starwars, yoda, lightsaber, starwarslegends, jedi, starwarsfan, starwarsreels, ariarch sector locations, anakin, shorts, force, darthvader, kenobi, starwarsfans, legends, sith
+2025-07-30 09:35:34,538 - INFO - Successfully uploaded: 'Parliock System Legends' (Video ID: MVcl9D8e7_Y)
+2025-07-30 09:35:34,539 - INFO - Logged upload: Parliock system_Legends_short.mp4
+2025-07-30 09:35:34,539 - INFO - Processing category: Arms manufacturing companies
+2025-07-30 09:35:34,553 - INFO - Attempting to upload: Antrech Arms
+2025-07-30 09:35:34,553 - INFO - Description: Antrech Arms, a subsidiary of the massive BlasTech Industries, crafted specialized weaponry for the ...
+2025-07-30 09:35:34,555 - INFO - Tags: starwarscommunity, starwars, arms manufacturing companies, yoda, lightsaber, starwarslegends, jedi, starwarsfan, starwarsreels, shorts, anakin, force, darthvader, kenobi, starwarsfans, legends, sith
+2025-07-30 09:35:58,805 - INFO - Successfully uploaded: 'Antrech Arms' (Video ID: HWwc193vUxw)
+2025-07-30 09:35:58,806 - INFO - Logged upload: Antrech Arms_short.mp4
+2025-07-30 09:35:58,806 - INFO - Processing category: Battles in 19 BBY
+2025-07-30 09:35:58,817 - INFO - Attempting to upload: Mission To Batuu
+2025-07-30 09:35:58,817 - INFO - Description: During the Clone Wars, a Separatist droid factory on Mokivj prompted a mission led by Anakin Skywalk...
+2025-07-30 09:35:58,818 - INFO - Tags: starwarscommunity, starwars, yoda, lightsaber, starwarslegends, jedi, starwarsfan, starwarsreels, shorts, anakin, legends, force, darthvader, kenobi, starwarsfans, battles in 19 bby, sith
+2025-07-30 09:36:23,634 - INFO - Successfully uploaded: 'Mission To Batuu' (Video ID: HRcy3BAAG-Y)
+2025-07-30 09:36:23,636 - INFO - Logged upload: Mission to Batuu_short.mp4
+2025-07-30 09:36:23,636 - INFO - Processing category: Character stubs
+2025-07-30 09:36:23,653 - INFO - Attempting to upload: Eos Morne
+2025-07-30 09:36:23,654 - INFO - Description: In 22 BBY, a light-skinned human named Eos Morne was spotted at Coruscant's exclusive Outlander Club...
+2025-07-30 09:36:23,654 - INFO - Tags: starwarscommunity, starwars, yoda, lightsaber, starwarslegends, jedi, character stubs, starwarsfan, starwarsreels, shorts, anakin, force, darthvader, kenobi, starwarsfans, legends, sith
+2025-07-30 09:36:40,439 - INFO - Successfully uploaded: 'Eos Morne' (Video ID: V48coegUW3M)
+2025-07-30 09:36:40,441 - INFO - Logged upload: Eos Morne_short.mp4
+2025-07-30 09:36:40,442 - INFO - Attempting to upload: Unidentified Second Prince
+2025-07-30 09:36:40,442 - INFO - Description: In the Empire's twilight years, a power struggle brewed between two brothers: the Crown Prince and h...
+2025-07-30 09:36:40,442 - INFO - Tags: starwarscommunity, starwars, yoda, lightsaber, starwarslegends, jedi, character stubs, starwarsfan, starwarsreels, shorts, anakin, force, darthvader, kenobi, starwarsfans, legends, sith
+2025-07-30 09:42:00,263 - INFO - Loaded credentials from token.pickle
+2025-07-30 09:42:00,266 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-30 09:42:00,270 - INFO - Found 5 already uploaded videos in log.
+2025-07-30 09:42:00,271 - INFO - Processing category: Arboreal planets
+2025-07-30 09:42:00,272 - INFO - Skipping already uploaded video: Mulita_short.mp4
+2025-07-30 09:42:00,273 - INFO - Processing category: Ariarch sector locations
+2025-07-30 09:42:00,273 - INFO - Skipping already uploaded video: Parliock system_Legends_short.mp4
+2025-07-30 09:42:00,273 - INFO - Processing category: Arms manufacturing companies
+2025-07-30 09:42:00,274 - INFO - Skipping already uploaded video: Antrech Arms_short.mp4
+2025-07-30 09:42:00,274 - INFO - Processing category: Battles in 19 BBY
+2025-07-30 09:42:00,275 - INFO - Skipping already uploaded video: Mission to Batuu_short.mp4
+2025-07-30 09:42:00,275 - INFO - Processing category: Character stubs
+2025-07-30 09:42:00,275 - INFO - Skipping already uploaded video: Eos Morne_short.mp4
+2025-07-30 09:42:00,277 - INFO - Attempting to upload: Unidentified Second Prince
+2025-07-30 09:42:00,277 - INFO - Description: In the Empire's twilight years, a power struggle brewed between two brothers: the Crown Prince and h...
+2025-07-30 09:42:00,277 - INFO - Tags: lightsaber, anakin, legends, sith, starwarslegends, character stubs, starwars, yoda, kenobi, starwarsfan, darthvader, force, jedi, starwarsreels, shorts, starwarscommunity, starwarsfans
+2025-07-30 09:51:58,281 - INFO - Loaded credentials from token.pickle
+2025-07-30 09:51:58,285 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-07-30 09:51:58,304 - INFO - Found 11 already uploaded videos in log.
+2025-07-30 09:51:58,304 - INFO - Processing category: Arboreal planets
+2025-07-30 09:51:58,305 - INFO - Skipping already uploaded video: Mulita_short.mp4
+2025-07-30 09:51:58,305 - INFO - Processing category: Ariarch sector locations
+2025-07-30 09:51:58,306 - INFO - Skipping already uploaded video: Parliock system_Legends_short.mp4
+2025-07-30 09:51:58,306 - INFO - Processing category: Arms manufacturing companies
+2025-07-30 09:51:58,307 - INFO - Skipping already uploaded video: Antrech Arms_short.mp4
+2025-07-30 09:51:58,307 - INFO - Processing category: Battles in 19 BBY
+2025-07-30 09:51:58,307 - INFO - Skipping already uploaded video: Mission to Batuu_short.mp4
+2025-07-30 09:51:58,308 - INFO - Processing category: Character stubs
+2025-07-30 09:51:58,308 - INFO - Skipping already uploaded video: Eos Morne_short.mp4
+2025-07-30 09:51:58,310 - INFO - Attempting to upload: Unidentified Second Prince
+2025-07-30 09:51:58,310 - INFO - Description: In the Empire's twilight years, a power struggle brewed between two brothers: the Crown Prince and h...
+2025-07-30 09:51:58,310 - INFO - Tags: lightsaber, starwarscommunity, darthvader, sith, starwarsreels, shorts, starwarsfans, force, anakin, starwars, yoda, starwarslegends, starwarsfan, legends, kenobi, jedi, character stubs
+2025-07-30 09:52:25,042 - INFO - Successfully uploaded: 'Unidentified Second Prince' (Video ID: DJIklpxl5TU)
+2025-07-30 09:52:25,043 - INFO - Logged upload: Unidentified Second Prince_short.mp4
+2025-07-30 09:52:25,044 - INFO - Processing category: Codes
+2025-07-30 09:52:25,045 - INFO - Attempting to upload: Protocol 514
+2025-07-30 09:52:25,045 - INFO - Description: On the remote planet 244Core, Tor-Ro-Bo Industries secretly activated Protocol 514.  This drastic me...
+2025-07-30 09:52:25,045 - INFO - Tags: lightsaber, codes, starwarscommunity, darthvader, sith, starwarsreels, shorts, starwarsfans, force, anakin, starwars, yoda, starwarslegends, starwarsfan, legends, kenobi, jedi
+2025-07-30 09:52:58,720 - INFO - Successfully uploaded: 'Protocol 514' (Video ID: kvONFclvdNo)
+2025-07-30 09:52:58,720 - INFO - Logged upload: Protocol 514_short.mp4
+2025-07-30 09:52:58,721 - INFO - Processing category: Diplomatic events
+2025-07-30 09:52:58,721 - INFO - Skipping already uploaded video: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-07-30 09:52:58,723 - INFO - Processing category: Diseases and maladies
+2025-07-30 09:52:58,724 - INFO - Skipping already uploaded video: Spice withdrawal_short.mp4
+2025-07-30 09:52:58,724 - INFO - Processing category: Herdessa sector locations
+2025-07-30 09:52:58,725 - INFO - Skipping already uploaded video: Cificap VIII_short.mp4
+2025-07-30 09:52:58,725 - INFO - Processing category: Koradin sector locations
+2025-07-30 09:52:58,726 - INFO - Attempting to upload: Kovor System Legends
+2025-07-30 09:52:58,726 - INFO - Description: Deep in the Outer Rim Territories, nestled within the Koradin sector, lies the Kovor system.  This r...
+2025-07-30 09:52:58,727 - INFO - Tags: lightsaber, koradin sector locations, starwarscommunity, sith, darthvader, shorts, starwarsfans, starwarsreels, anakin, force, starwars, yoda, starwarslegends, starwarsfan, legends, kenobi, jedi
+2025-07-30 09:53:14,995 - INFO - Successfully uploaded: 'Kovor System Legends' (Video ID: eWvYMlAlNDo)
+2025-07-30 09:53:14,996 - INFO - Logged upload: Kovor system_Legends_short.mp4
+2025-07-30 09:53:14,996 - INFO - Processing category: Meirm Speeder Emporium products
+2025-07-30 09:53:14,997 - INFO - Skipping already uploaded video: Iguana (speeder bike)_short.mp4
+2025-07-30 09:53:14,998 - INFO - Processing category: Rocks
+2025-07-30 09:53:14,998 - INFO - Skipping already uploaded video: Sandstone_short.mp4
+2025-07-30 09:53:14,998 - INFO - Processing category: Science stubs
+2025-07-30 09:53:14,999 - INFO - Attempting to upload: Kilogram
+2025-07-30 09:53:14,999 - INFO - Description: In the Star Wars galaxy, the kilogram, or kg, measures mass.  We know, for instance, that a B1 battl...
+2025-07-30 09:53:15,000 - INFO - Tags: science stubs, lightsaber, starwarscommunity, darthvader, sith, starwarsreels, shorts, starwarsfans, force, anakin, starwars, yoda, starwarslegends, starwarsfan, legends, kenobi, jedi
+2025-07-30 09:53:15,415 - ERROR - An HTTP error occurred during upload for Kilogram_short.mp4: <HttpError 400 when requesting None returned "The user has exceeded the number of videos they may upload.". Details: "[{'message': 'The user has exceeded the number of videos they may upload.', 'domain': 'youtube.video', 'reason': 'uploadLimitExceeded'}]">
+2025-07-30 09:53:15,416 - ERROR - Failed to upload or log: Kilogram_short.mp4
+2025-07-30 09:53:15,416 - INFO - Processing category: Songs
+2025-07-30 09:53:15,417 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.

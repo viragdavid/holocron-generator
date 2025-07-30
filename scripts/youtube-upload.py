@@ -125,7 +125,9 @@ def upload_video(youtube_service, video_path, title, description, tags, category
             'categoryId': category_id
         },
         'status': {
-            'privacyStatus': privacy_status
+            'privacyStatus': privacy_status,
+            'selfDeclaredMadeForKids': False, # not for kids
+            'embeddable': True, # Often useful to allow embedding
         },
         'recordingDetails': { # Optional: for Shorts, you might want to specify this
             'recordingDate': datetime.datetime.now(datetime.timezone.utc).isoformat()
