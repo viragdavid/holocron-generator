@@ -1,6 +1,6 @@
 # Holocron Generator
 
-The Holocron Generator is an automated content creation pipeline designed to generate unique Star Wars-themed short videos. It orchestrates scraping information from Wookieepedia, leveraging AI for narrative transformation and audio generation, creating dynamic video shorts with background footage and subtitles, and finally automating the upload process to YouTube.
+The Holocron Generator is an automated content creation pipeline designed to generate unique Star Wars-themed short videos. It automates the process of scraping information from Wookieepedia, leveraging AI for narrative transformation and audio generation, creating dynamic video shorts with background footage and subtitles, and finally automating the upload process to YouTube.
 
 This project showcases a comprehensive understanding of API integrations, automated workflows, multimedia processing, and data management.
 
