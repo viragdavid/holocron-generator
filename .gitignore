@@ -8,3 +8,4 @@ data/minecraft_footage
 client_secret_12090445080-o5mvqmklk0ac7uu7q4co9hib5sgi01fn.apps.googleusercontent.com.json
 data/token.pickle
 data/uploader.log
+scripts/token.pickle
