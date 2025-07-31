@@ -1,6 +1,6 @@
 import subprocess
 import sys
-import os # Added for os.path.join
+import os
 
 # List of scripts to run, in order
 scripts_to_run = [
@@ -11,18 +11,20 @@ scripts_to_run = [
     "youtube-upload.py",
 ]
 
+# Get the directory of the current script (run-workflow.py)
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
 print("Starting the automated workflow...")
 
 for script in scripts_to_run:
-
-    
     print(f"\n--- Running: {script} ---")
     
     try:
-        # sys.executable ensures the current Python interpreter is used
-        # check=False means it won't raise an error if the script exits non-zero
-        # capture_output=False means output goes directly to console
-        subprocess.run([sys.executable, script], check=False, capture_output=False)
+        # We don't need to build the full path here because we're setting the cwd
+        subprocess.run([sys.executable, script], 
+                       cwd=script_dir, 
+                       check=False, 
+                       capture_output=False)
     except FileNotFoundError:
         print(f"ERROR: Script not found: {script}. Skipping.")
     except Exception as e:
