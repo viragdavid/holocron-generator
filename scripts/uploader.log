@@ -101,3 +101,256 @@
 2025-07-30 09:53:15,416 - ERROR - Failed to upload or log: Kilogram_short.mp4
 2025-07-30 09:53:15,416 - INFO - Processing category: Songs
 2025-07-30 09:53:15,417 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
+2025-08-01 14:31:59,928 - INFO - Loaded credentials from token.pickle
+2025-08-01 14:31:59,929 - INFO - Access token expired, attempting to refresh...
+2025-08-01 14:32:00,188 - INFO - Access token refreshed successfully.
+2025-08-01 14:32:00,190 - INFO - Credentials saved to token.pickle
+2025-08-01 14:32:00,198 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-01 14:32:00,235 - INFO - Found 14 already uploaded videos in log.
+2025-08-01 14:32:00,236 - INFO - Processing category: Arboreal planets
+2025-08-01 14:32:00,237 - INFO - Skipping already uploaded video: Mulita_short.mp4
+2025-08-01 14:32:00,237 - INFO - Processing category: Ariarch sector locations
+2025-08-01 14:32:00,238 - INFO - Skipping already uploaded video: Parliock system_Legends_short.mp4
+2025-08-01 14:32:00,238 - INFO - Processing category: Arms manufacturing companies
+2025-08-01 14:32:00,238 - INFO - Skipping already uploaded video: Antrech Arms_short.mp4
+2025-08-01 14:32:00,239 - INFO - Processing category: Battles in 19 BBY
+2025-08-01 14:32:00,239 - INFO - Skipping already uploaded video: Mission to Batuu_short.mp4
+2025-08-01 14:32:00,239 - INFO - Processing category: Character stubs
+2025-08-01 14:32:00,240 - INFO - Skipping already uploaded video: Eos Morne_short.mp4
+2025-08-01 14:32:00,240 - INFO - Skipping already uploaded video: Unidentified Second Prince_short.mp4
+2025-08-01 14:32:00,240 - INFO - Processing category: Codes
+2025-08-01 14:32:00,241 - INFO - Skipping already uploaded video: Protocol 514_short.mp4
+2025-08-01 14:32:00,241 - INFO - Processing category: Diplomatic events
+2025-08-01 14:32:00,242 - INFO - Skipping already uploaded video: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-08-01 14:32:00,242 - INFO - Processing category: Diseases and maladies
+2025-08-01 14:32:00,242 - INFO - Skipping already uploaded video: Spice withdrawal_short.mp4
+2025-08-01 14:32:00,242 - INFO - Processing category: Herdessa sector locations
+2025-08-01 14:32:00,244 - INFO - Skipping already uploaded video: Cificap VIII_short.mp4
+2025-08-01 14:32:00,244 - INFO - Processing category: Incomplete lists
+2025-08-01 14:32:00,245 - INFO - Attempting to upload: Resistance Rank Badge
+2025-08-01 14:32:00,245 - INFO - Description: The Resistance, fighting against the First Order, used distinctive rank badges.  These gray rectangl...
+2025-08-01 14:32:00,245 - INFO - Tags: shorts, legends, lightsaber, starwarslegends, starwarsfan, starwars, force, incomplete lists, starwarsreels, kenobi, starwarscommunity, anakin, starwarsfans, jedi, sith, yoda, darthvader
+2025-08-01 14:32:51,730 - INFO - Successfully uploaded: 'Resistance Rank Badge' (Video ID: v-Vm7sMPJLM)
+2025-08-01 14:32:51,731 - INFO - Logged upload: Resistance rank badge_short.mp4
+2025-08-01 14:32:51,732 - INFO - Processing category: Koradin sector locations
+2025-08-01 14:32:51,733 - INFO - Skipping already uploaded video: Kovor system_Legends_short.mp4
+2025-08-01 14:32:51,733 - INFO - Processing category: Meirm Speeder Emporium products
+2025-08-01 14:32:51,733 - INFO - Skipping already uploaded video: Iguana (speeder bike)_short.mp4
+2025-08-01 14:32:51,734 - INFO - Processing category: Rocks
+2025-08-01 14:32:51,734 - INFO - Skipping already uploaded video: Sandstone_short.mp4
+2025-08-01 14:32:51,735 - INFO - Processing category: Science stubs
+2025-08-01 14:32:51,747 - INFO - Attempting to upload: Kilogram
+2025-08-01 14:32:51,748 - INFO - Description: In the Star Wars galaxy, the kilogram, or kg, measures mass.  We know, for instance, that a B1 battl...
+2025-08-01 14:32:51,748 - INFO - Tags: shorts, legends, lightsaber, starwarslegends, starwarsfan, starwars, force, starwarsreels, kenobi, starwarscommunity, anakin, starwarsfans, science stubs, jedi, sith, yoda, darthvader
+2025-08-01 14:33:22,274 - INFO - Successfully uploaded: 'Kilogram' (Video ID: Rrc_5ig57e4)
+2025-08-01 14:33:22,275 - INFO - Logged upload: Kilogram_short.mp4
+2025-08-01 14:33:22,275 - INFO - Processing category: Songs
+2025-08-01 14:33:22,277 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
+2025-08-01 14:35:14,741 - INFO - Loaded credentials from token.pickle
+2025-08-01 14:35:14,745 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-01 14:35:14,762 - INFO - Found 16 already uploaded videos in log.
+2025-08-01 14:35:14,763 - INFO - Processing category: Arboreal planets
+2025-08-01 14:35:14,763 - INFO - Skipping already uploaded video: Mulita_short.mp4
+2025-08-01 14:35:14,764 - INFO - Processing category: Ariarch sector locations
+2025-08-01 14:35:14,764 - INFO - Skipping already uploaded video: Parliock system_Legends_short.mp4
+2025-08-01 14:35:14,764 - INFO - Processing category: Arms manufacturing companies
+2025-08-01 14:35:14,765 - INFO - Skipping already uploaded video: Antrech Arms_short.mp4
+2025-08-01 14:35:14,765 - INFO - Processing category: Battles in 19 BBY
+2025-08-01 14:35:14,766 - INFO - Skipping already uploaded video: Mission to Batuu_short.mp4
+2025-08-01 14:35:14,766 - INFO - Processing category: Battles of Pantora
+2025-08-01 14:35:14,768 - INFO - Attempting to upload: Hunt On Pantora
+2025-08-01 14:35:14,769 - INFO - Description: During the dark days of the Great Jedi Purge, between 19 and 9 BBY, the fearsome Third Sister stalke...
+2025-08-01 14:35:14,769 - INFO - Tags: force, sith, battles of pantora, legends, starwarslegends, shorts, lightsaber, anakin, darthvader, yoda, starwarscommunity, kenobi, starwarsfans, starwars, starwarsreels, jedi, starwarsfan
+2025-08-01 14:36:02,834 - INFO - Successfully uploaded: 'Hunt On Pantora' (Video ID: vnFwqOzcXKE)
+2025-08-01 14:36:02,835 - INFO - Logged upload: Hunt on Pantora_short.mp4
+2025-08-01 14:36:02,836 - INFO - Processing category: Character stubs
+2025-08-01 14:36:02,837 - INFO - Skipping already uploaded video: Eos Morne_short.mp4
+2025-08-01 14:36:02,837 - INFO - Skipping already uploaded video: Unidentified Second Prince_short.mp4
+2025-08-01 14:36:02,837 - INFO - Processing category: Codes
+2025-08-01 14:36:02,838 - INFO - Skipping already uploaded video: Protocol 514_short.mp4
+2025-08-01 14:36:02,838 - INFO - Processing category: Diplomatic events
+2025-08-01 14:36:02,839 - INFO - Skipping already uploaded video: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-08-01 14:36:02,840 - INFO - Processing category: Diseases and maladies
+2025-08-01 14:36:02,841 - INFO - Skipping already uploaded video: Spice withdrawal_short.mp4
+2025-08-01 14:36:02,841 - INFO - Processing category: Herdessa sector locations
+2025-08-01 14:36:02,842 - INFO - Skipping already uploaded video: Cificap VIII_short.mp4
+2025-08-01 14:36:02,843 - INFO - Processing category: Incomplete lists
+2025-08-01 14:36:02,843 - INFO - Skipping already uploaded video: Resistance rank badge_short.mp4
+2025-08-01 14:36:02,844 - INFO - Processing category: Koradin sector locations
+2025-08-01 14:36:02,845 - INFO - Skipping already uploaded video: Kovor system_Legends_short.mp4
+2025-08-01 14:36:02,845 - INFO - Processing category: Meirm Speeder Emporium products
+2025-08-01 14:36:02,846 - INFO - Skipping already uploaded video: Iguana (speeder bike)_short.mp4
+2025-08-01 14:36:02,846 - INFO - Processing category: Rocks
+2025-08-01 14:36:02,847 - INFO - Skipping already uploaded video: Sandstone_short.mp4
+2025-08-01 14:36:02,848 - INFO - Processing category: Science stubs
+2025-08-01 14:36:02,848 - INFO - Skipping already uploaded video: Kilogram_short.mp4
+2025-08-01 14:36:02,849 - INFO - Processing category: Songs
+2025-08-01 14:36:02,850 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
+2025-08-01 14:37:42,263 - INFO - Loaded credentials from token.pickle
+2025-08-01 14:37:42,268 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-01 14:37:42,283 - INFO - Found 17 already uploaded videos in log.
+2025-08-01 14:37:42,284 - INFO - Processing category: Arboreal planets
+2025-08-01 14:37:42,285 - INFO - Skipping already uploaded video: Mulita_short.mp4
+2025-08-01 14:37:42,286 - INFO - Processing category: Ariarch sector locations
+2025-08-01 14:37:42,287 - INFO - Skipping already uploaded video: Parliock system_Legends_short.mp4
+2025-08-01 14:37:42,293 - INFO - Processing category: Arms manufacturing companies
+2025-08-01 14:37:42,294 - INFO - Skipping already uploaded video: Antrech Arms_short.mp4
+2025-08-01 14:37:42,294 - INFO - Processing category: Battles in 19 BBY
+2025-08-01 14:37:42,295 - INFO - Skipping already uploaded video: Mission to Batuu_short.mp4
+2025-08-01 14:37:42,295 - INFO - Processing category: Battles of Pantora
+2025-08-01 14:37:42,296 - INFO - Skipping already uploaded video: Hunt on Pantora_short.mp4
+2025-08-01 14:37:42,296 - INFO - Processing category: Character stubs
+2025-08-01 14:37:42,297 - INFO - Skipping already uploaded video: Eos Morne_short.mp4
+2025-08-01 14:37:42,298 - INFO - Attempting to upload: Kilburn
+2025-08-01 14:37:42,298 - INFO - Description: Kilburn, a fiercely independent pilot, belonged to a group skeptical of fully automated flight.  He ...
+2025-08-01 14:37:42,299 - INFO - Tags: character stubs, legends, starwarslegends, starwarscommunity, starwarsfans, yoda, starwarsreels, starwarsfan, shorts, anakin, jedi, darthvader, starwars, force, lightsaber, sith, kenobi
+2025-08-01 14:38:04,362 - INFO - Successfully uploaded: 'Kilburn' (Video ID: zgyFGzyhf8I)
+2025-08-01 14:38:04,363 - INFO - Logged upload: Kilburn_short.mp4
+2025-08-01 14:38:04,363 - INFO - Skipping already uploaded video: Unidentified Second Prince_short.mp4
+2025-08-01 14:38:04,363 - INFO - Processing category: Codes
+2025-08-01 14:38:04,364 - INFO - Skipping already uploaded video: Protocol 514_short.mp4
+2025-08-01 14:38:04,365 - INFO - Processing category: Diplomatic events
+2025-08-01 14:38:04,366 - INFO - Skipping already uploaded video: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-08-01 14:38:04,366 - INFO - Processing category: Diseases and maladies
+2025-08-01 14:38:04,367 - INFO - Skipping already uploaded video: Spice withdrawal_short.mp4
+2025-08-01 14:38:04,367 - INFO - Processing category: Herdessa sector locations
+2025-08-01 14:38:04,368 - INFO - Skipping already uploaded video: Cificap VIII_short.mp4
+2025-08-01 14:38:04,368 - INFO - Processing category: Incomplete lists
+2025-08-01 14:38:04,369 - INFO - Skipping already uploaded video: Resistance rank badge_short.mp4
+2025-08-01 14:38:04,371 - INFO - Processing category: Koradin sector locations
+2025-08-01 14:38:04,372 - INFO - Skipping already uploaded video: Kovor system_Legends_short.mp4
+2025-08-01 14:38:04,372 - INFO - Processing category: Meirm Speeder Emporium products
+2025-08-01 14:38:04,373 - INFO - Skipping already uploaded video: Iguana (speeder bike)_short.mp4
+2025-08-01 14:38:04,374 - INFO - Processing category: Rocks
+2025-08-01 14:38:04,374 - INFO - Skipping already uploaded video: Sandstone_short.mp4
+2025-08-01 14:38:04,375 - INFO - Processing category: Science stubs
+2025-08-01 14:38:04,375 - INFO - Skipping already uploaded video: Kilogram_short.mp4
+2025-08-01 14:38:04,375 - INFO - Processing category: Songs
+2025-08-01 14:38:04,376 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
+2025-08-01 14:44:24,576 - INFO - Loaded credentials from token.pickle
+2025-08-01 14:44:24,580 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-01 14:44:24,594 - INFO - Found 18 already uploaded videos in log.
+2025-08-01 14:44:24,595 - INFO - Processing category: Arboreal planets
+2025-08-01 14:44:24,596 - INFO - Skipping already uploaded video: Mulita_short.mp4
+2025-08-01 14:44:24,597 - INFO - Processing category: Ariarch sector locations
+2025-08-01 14:44:24,597 - INFO - Skipping already uploaded video: Parliock system_Legends_short.mp4
+2025-08-01 14:44:24,597 - INFO - Processing category: Arms manufacturing companies
+2025-08-01 14:44:24,598 - INFO - Skipping already uploaded video: Antrech Arms_short.mp4
+2025-08-01 14:44:24,598 - INFO - Processing category: Articles that are known by a nickname
+2025-08-01 14:44:24,599 - INFO - Attempting to upload: Great Temple (Grumani)
+2025-08-01 14:44:24,599 - INFO - Description: Deep beneath Sarrassia's Mount Diligence, hidden by an underground lake, lay the Grumani Great Templ...
+2025-08-01 14:44:24,599 - INFO - Tags: legends, starwarsreels, jedi, darthvader, lightsaber, force, kenobi, starwarscommunity, anakin, shorts, starwars, starwarslegends, starwarsfan, yoda, articles that are known by a nickname, starwarsfans, sith
+2025-08-01 14:45:23,146 - INFO - Successfully uploaded: 'Great Temple (Grumani)' (Video ID: HdoCoHg9pJs)
+2025-08-01 14:45:23,147 - INFO - Logged upload: Great Temple (Grumani)_short.mp4
+2025-08-01 14:45:23,148 - INFO - Processing category: Battles in 19 BBY
+2025-08-01 14:45:23,149 - INFO - Skipping already uploaded video: Mission to Batuu_short.mp4
+2025-08-01 14:45:23,149 - INFO - Processing category: Battles of Pantora
+2025-08-01 14:45:23,151 - INFO - Skipping already uploaded video: Hunt on Pantora_short.mp4
+2025-08-01 14:45:23,151 - INFO - Processing category: Character stubs
+2025-08-01 14:45:23,152 - INFO - Skipping already uploaded video: Eos Morne_short.mp4
+2025-08-01 14:45:23,152 - INFO - Skipping already uploaded video: Kilburn_short.mp4
+2025-08-01 14:45:23,153 - INFO - Skipping already uploaded video: Unidentified Second Prince_short.mp4
+2025-08-01 14:45:23,153 - INFO - Processing category: Codes
+2025-08-01 14:45:23,154 - INFO - Skipping already uploaded video: Protocol 514_short.mp4
+2025-08-01 14:45:23,155 - INFO - Processing category: Diplomatic events
+2025-08-01 14:45:23,155 - INFO - Skipping already uploaded video: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-08-01 14:45:23,156 - INFO - Processing category: Diseases and maladies
+2025-08-01 14:45:23,157 - INFO - Skipping already uploaded video: Spice withdrawal_short.mp4
+2025-08-01 14:45:23,157 - INFO - Processing category: Herdessa sector locations
+2025-08-01 14:45:23,158 - INFO - Skipping already uploaded video: Cificap VIII_short.mp4
+2025-08-01 14:45:23,158 - INFO - Processing category: Incomplete lists
+2025-08-01 14:45:23,160 - INFO - Skipping already uploaded video: Resistance rank badge_short.mp4
+2025-08-01 14:45:23,161 - INFO - Processing category: Koradin sector locations
+2025-08-01 14:45:23,161 - INFO - Skipping already uploaded video: Kovor system_Legends_short.mp4
+2025-08-01 14:45:23,162 - INFO - Processing category: Meirm Speeder Emporium products
+2025-08-01 14:45:23,162 - INFO - Skipping already uploaded video: Iguana (speeder bike)_short.mp4
+2025-08-01 14:45:23,163 - INFO - Processing category: Rocks
+2025-08-01 14:45:23,164 - INFO - Skipping already uploaded video: Sandstone_short.mp4
+2025-08-01 14:45:23,165 - INFO - Processing category: Science stubs
+2025-08-01 14:45:23,166 - INFO - Skipping already uploaded video: Kilogram_short.mp4
+2025-08-01 14:45:23,166 - INFO - Processing category: Songs
+2025-08-01 14:45:23,167 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
+2025-08-01 14:48:29,459 - INFO - Loaded credentials from token.pickle
+2025-08-01 14:48:29,464 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-01 14:48:29,479 - INFO - Found 19 already uploaded videos in log.
+2025-08-01 14:48:29,479 - INFO - Processing category: Arboreal planets
+2025-08-01 14:48:29,481 - INFO - Skipping already uploaded video: Mulita_short.mp4
+2025-08-01 14:48:29,482 - INFO - Processing category: Ariarch sector locations
+2025-08-01 14:48:29,482 - INFO - Skipping already uploaded video: Parliock system_Legends_short.mp4
+2025-08-01 14:48:29,482 - INFO - Processing category: Arms manufacturing companies
+2025-08-01 14:48:29,483 - INFO - Skipping already uploaded video: Antrech Arms_short.mp4
+2025-08-01 14:48:29,483 - INFO - Processing category: Articles that are known by a nickname
+2025-08-01 14:48:29,484 - INFO - Skipping already uploaded video: Great Temple (Grumani)_short.mp4
+2025-08-01 14:48:29,484 - INFO - Processing category: Battles in 19 BBY
+2025-08-01 14:48:29,485 - INFO - Skipping already uploaded video: Mission to Batuu_short.mp4
+2025-08-01 14:48:29,485 - INFO - Processing category: Battles of Pantora
+2025-08-01 14:48:29,486 - INFO - Skipping already uploaded video: Hunt on Pantora_short.mp4
+2025-08-01 14:48:29,488 - INFO - Processing category: Character stubs
+2025-08-01 14:48:29,488 - INFO - Skipping already uploaded video: Eos Morne_short.mp4
+2025-08-01 14:48:29,488 - INFO - Skipping already uploaded video: Kilburn_short.mp4
+2025-08-01 14:48:29,488 - INFO - Skipping already uploaded video: Unidentified Second Prince_short.mp4
+2025-08-01 14:48:29,489 - INFO - Processing category: Codes
+2025-08-01 14:48:29,489 - INFO - Skipping already uploaded video: Protocol 514_short.mp4
+2025-08-01 14:48:29,490 - INFO - Processing category: Diplomatic events
+2025-08-01 14:48:29,490 - INFO - Skipping already uploaded video: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-08-01 14:48:29,491 - INFO - Processing category: Diseases and maladies
+2025-08-01 14:48:29,492 - INFO - Skipping already uploaded video: Spice withdrawal_short.mp4
+2025-08-01 14:48:29,492 - INFO - Processing category: Herdessa sector locations
+2025-08-01 14:48:29,493 - INFO - Skipping already uploaded video: Cificap VIII_short.mp4
+2025-08-01 14:48:29,493 - INFO - Processing category: Incomplete lists
+2025-08-01 14:48:29,494 - INFO - Skipping already uploaded video: Resistance rank badge_short.mp4
+2025-08-01 14:48:29,494 - INFO - Processing category: Individuals of unspecified gender
+2025-08-01 14:48:29,494 - WARNING - No description file found for Unidentified kJtari pirate_short.mp4 (../data/generated_text\Individuals of unspecified gender\Unidentified kJtari pirate_rephrased.txt). Skipping.
+2025-08-01 14:48:29,494 - INFO - Processing category: Koradin sector locations
+2025-08-01 14:48:29,496 - INFO - Skipping already uploaded video: Kovor system_Legends_short.mp4
+2025-08-01 14:48:29,496 - INFO - Processing category: Meirm Speeder Emporium products
+2025-08-01 14:48:29,496 - INFO - Skipping already uploaded video: Iguana (speeder bike)_short.mp4
+2025-08-01 14:48:29,496 - INFO - Processing category: Rocks
+2025-08-01 14:48:29,497 - INFO - Skipping already uploaded video: Sandstone_short.mp4
+2025-08-01 14:48:29,497 - INFO - Processing category: Science stubs
+2025-08-01 14:48:29,497 - INFO - Skipping already uploaded video: Kilogram_short.mp4
+2025-08-01 14:48:29,498 - INFO - Processing category: Songs
+2025-08-01 14:48:29,499 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
+2025-08-01 14:59:54,314 - INFO - Loaded credentials from token.pickle
+2025-08-01 14:59:54,321 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-08-01 14:59:54,327 - INFO - Found 19 already uploaded videos in log.
+2025-08-01 14:59:54,328 - INFO - Processing category: Arboreal planets
+2025-08-01 14:59:54,329 - INFO - Skipping already uploaded video: Mulita_short.mp4
+2025-08-01 14:59:54,329 - INFO - Processing category: Ariarch sector locations
+2025-08-01 14:59:54,330 - INFO - Skipping already uploaded video: Parliock system_Legends_short.mp4
+2025-08-01 14:59:54,330 - INFO - Processing category: Arms manufacturing companies
+2025-08-01 14:59:54,331 - INFO - Skipping already uploaded video: Antrech Arms_short.mp4
+2025-08-01 14:59:54,332 - INFO - Processing category: Articles in need of updating
+2025-08-01 14:59:54,332 - WARNING - No description file found for Tongor_short.mp4 (../data/generated_text\Articles in need of updating\Tongor_rephrased.txt). Skipping.
+2025-08-01 14:59:54,333 - INFO - Processing category: Articles that are known by a nickname
+2025-08-01 14:59:54,333 - INFO - Skipping already uploaded video: Great Temple (Grumani)_short.mp4
+2025-08-01 14:59:54,334 - INFO - Processing category: Battles in 19 BBY
+2025-08-01 14:59:54,335 - INFO - Skipping already uploaded video: Mission to Batuu_short.mp4
+2025-08-01 14:59:54,335 - INFO - Processing category: Battles of Pantora
+2025-08-01 14:59:54,336 - INFO - Skipping already uploaded video: Hunt on Pantora_short.mp4
+2025-08-01 14:59:54,337 - INFO - Processing category: Character stubs
+2025-08-01 14:59:54,337 - INFO - Skipping already uploaded video: Eos Morne_short.mp4
+2025-08-01 14:59:54,337 - INFO - Skipping already uploaded video: Kilburn_short.mp4
+2025-08-01 14:59:54,339 - INFO - Skipping already uploaded video: Unidentified Second Prince_short.mp4
+2025-08-01 14:59:54,339 - INFO - Processing category: Codes
+2025-08-01 14:59:54,340 - INFO - Skipping already uploaded video: Protocol 514_short.mp4
+2025-08-01 14:59:54,340 - INFO - Processing category: Diplomatic events
+2025-08-01 14:59:54,341 - INFO - Skipping already uploaded video: Thirteenth Imperial Diplomatic Conclave_short.mp4
+2025-08-01 14:59:54,341 - INFO - Processing category: Diseases and maladies
+2025-08-01 14:59:54,342 - INFO - Skipping already uploaded video: Spice withdrawal_short.mp4
+2025-08-01 14:59:54,343 - INFO - Processing category: Herdessa sector locations
+2025-08-01 14:59:54,343 - INFO - Skipping already uploaded video: Cificap VIII_short.mp4
+2025-08-01 14:59:54,343 - INFO - Processing category: Incomplete lists
+2025-08-01 14:59:54,344 - INFO - Skipping already uploaded video: Resistance rank badge_short.mp4
+2025-08-01 14:59:54,344 - INFO - Processing category: Individuals of unspecified gender
+2025-08-01 14:59:54,345 - WARNING - No description file found for Unidentified kJtari pirate_short.mp4 (../data/generated_text\Individuals of unspecified gender\Unidentified kJtari pirate_rephrased.txt). Skipping.
+2025-08-01 14:59:54,346 - INFO - Processing category: Koradin sector locations
+2025-08-01 14:59:54,346 - INFO - Skipping already uploaded video: Kovor system_Legends_short.mp4
+2025-08-01 14:59:54,347 - INFO - Processing category: Meirm Speeder Emporium products
+2025-08-01 14:59:54,348 - INFO - Skipping already uploaded video: Iguana (speeder bike)_short.mp4
+2025-08-01 14:59:54,348 - INFO - Processing category: Rocks
+2025-08-01 14:59:54,349 - INFO - Skipping already uploaded video: Sandstone_short.mp4
+2025-08-01 14:59:54,350 - INFO - Processing category: Science stubs
+2025-08-01 14:59:54,350 - INFO - Skipping already uploaded video: Kilogram_short.mp4
+2025-08-01 14:59:54,352 - INFO - Processing category: Songs
+2025-08-01 14:59:54,352 - WARNING - No description file found for What Mamma Doesnt Know_short.mp4 (../data/generated_text\Songs\What Mamma Doesnt Know_rephrased.txt). Skipping.
